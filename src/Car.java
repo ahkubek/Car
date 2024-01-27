@@ -16,6 +16,6 @@ public class Car {
         // Обязательно задаем ему значения атрибутов в том же порядке,
         // в котором они заданы в конструкторе
         Car myCar = new Car("Toyota", "Red");
-        System.out.println("test");
+
     }
 }
